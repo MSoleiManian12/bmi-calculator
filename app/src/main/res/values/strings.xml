@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">BMI Calculator</string>
+    <string name="app_name">محاسبه شاخص توده بدنی</string>
+    <string name="bmi">شاخص توده بدنی</string>
+    <string name="calculator">محاسبه</string>
+    <string name="weight">وزن</string>
+    <string name="height">قد</string>
 </resources>
